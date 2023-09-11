@@ -1,0 +1,2 @@
+AZURE_STORAGE_ACCOUNT=name of your storage AZURE_STORAGE_ACCOUNT
+AZURE_STORAGE_ACCOUNT_CONNECTION_STRING=your secret connection string for your storage account
